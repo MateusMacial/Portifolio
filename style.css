@@ -311,6 +311,10 @@ header{
     width: 100%;
 }
 
+.sessao-projetos{
+    height: 60vh;
+}
+
 .projetos{
     display: flex;
     justify-content: space-evenly;
@@ -379,6 +383,7 @@ header{
     background: #6a3093;
     background: -webkit-linear-gradient(to right, #a044ff, #6a3093);
     background: linear-gradient(to right, #a044ff, #6a3093);
+    border: none;
     font-size: 1rem;
     color: #eee;
     border-radius: .5rem;
